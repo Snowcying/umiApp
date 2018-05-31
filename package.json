@@ -1,0 +1,19 @@
+{
+  "name": "umiapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".umirc.js",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
+    "umi": "^1.3.4",
+    "umi-plugin-routes": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
